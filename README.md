@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Abolfazl Najar
 - 👀 I’m interested in Deep Learning, Face detection
-- 🌱 I’m currently learning OpenCL
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning TensorRT, It's Nvidia tool that have been presented to accelerate DNN inference on GPUs.
+- 💞️ I’m looking to collaborate on OpenCL implementation on FPGA
 - 📫 How to reach me anajar2198@gmail.com
 
 <!---
